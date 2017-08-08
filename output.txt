@@ -1,0 +1,223 @@
+GetPostings
+afgiv
+Postings List: 8
+GetPostings
+aufbau
+Postings List: 31813  32092
+GetPostings
+adspurg
+Postings List: 7  8
+TaatAnd
+afgiv aufbau adspurg 
+Results : 
+Number of documents in result :0
+Number of comparisions :1
+TaatOr
+afgiv aufbau adspurg 
+Results: 7  8  31813  32092
+Number of documents in result :4
+Number of comparisions :3
+DaatAnd
+afgiv aufbau adspurg 
+Results: 
+Number of documents in results : 0
+Number of comparision: 3
+DaatOr
+afgiv aufbau adspurg 
+Results: 7  8  31813  32092
+Number of documents in results : 4
+Number of comparision13
+GetPostings
+наркобизнес
+Postings List: 38222  38812  45069
+GetPostings
+наркотик
+Postings List: 38222  40817  41700  42087  42650  43169  43186  43716  43886
+TaatAnd
+наркобизнес наркотик 
+Results : 38222
+Number of documents in result :1
+Number of comparisions :10
+TaatOr
+наркобизнес наркотик 
+Results: 38222  38812  40817  41700  42087  42650  43169  43186  43716  43886  45069
+Number of documents in result :11
+Number of comparisions :10
+DaatAnd
+наркобизнес наркотик 
+Results: 38222
+Number of documents in results : 1
+Number of comparision: 11
+DaatOr
+наркобизнес наркотик 
+Results: 38222  38812  40817  41700  42087  42650  43169  43186  43716  43886  45069
+Number of documents in results : 11
+Number of comparision33
+GetPostings
+alcist
+Postings List: 45233  45246  45256
+GetPostings
+abiert
+Postings List: 45233  45241  45243  45245  45248  45252  45255  45266
+TaatAnd
+alcist abiert 
+Results : 45233
+Number of documents in result :1
+Number of comparisions :9
+TaatOr
+alcist abiert 
+Results: 45233  45241  45243  45245  45246  45248  45252  45255  45256  45266
+Number of documents in result :10
+Number of comparisions :9
+DaatAnd
+alcist abiert 
+Results: 45233
+Number of documents in results : 1
+Number of comparision: 10
+DaatOr
+alcist abiert 
+Results: 45233  45241  45243  45245  45246  45248  45252  45255  45256  45266
+Number of documents in results : 10
+Number of comparision30
+GetPostings
+zwischenbericht
+Postings List: 31662  31671  31676  31782  31842  31888  31949  32051  32066  32082  32127  32143  32171  32215  32296
+GetPostings
+zweit
+Postings List: 31655  31662  31674  31681  31682  31684  31700  31719  31738  31770  31800  31801  31805  31831  31833  31847  31863  31865  31875  31901  31903  31908  31911  31913  31917  31918  31941  31942  31943  31946  31970  31991  31999  32000  32003  32007  32027  32044  32051  32074  32079  32082  32110  32123  32129  32137  32143  32147  32159  32165  32167  32171  32179  32182  32189  32202  32215  32222  32225  32230  32232  32247  32270  32273  32283  32291  32295  32296  32302  32307  32320  32335
+TaatAnd
+zwischenbericht zweit 
+Results : 31662  32051  32082  32143  32171  32215  32296
+Number of documents in result :7
+Number of comparisions :76
+TaatOr
+zwischenbericht zweit 
+Results: 31655  31662  31671  31674  31676  31681  31682  31684  31700  31719  31738  31770  31782  31800  31801  31805  31831  31833  31842  31847  31863  31865  31875  31888  31901  31903  31908  31911  31913  31917  31918  31941  31942  31943  31946  31949  31970  31991  31999  32000  32003  32007  32027  32044  32051  32066  32074  32079  32082  32110  32123  32127  32129  32137  32143  32147  32159  32165  32167  32171  32179  32182  32189  32202  32215  32222  32225  32230  32232  32247  32270  32273  32283  32291  32295  32296  32302  32307  32320  32335
+Number of documents in result :80
+Number of comparisions :76
+DaatAnd
+zwischenbericht zweit 
+Results: 31662  32051  32082  32143  32171  32215  32296
+Number of documents in results : 7
+Number of comparision: 83
+DaatOr
+zwischenbericht zweit 
+Results: 31655  31662  31671  31674  31676  31681  31682  31684  31700  31719  31738  31770  31782  31800  31801  31805  31831  31833  31842  31847  31863  31865  31875  31888  31901  31903  31908  31911  31913  31917  31918  31941  31942  31943  31946  31949  31970  31991  31999  32000  32003  32007  32027  32044  32051  32066  32074  32079  32082  32110  32123  32127  32129  32137  32143  32147  32159  32165  32167  32171  32179  32182  32189  32202  32215  32222  32225  32230  32232  32247  32270  32273  32283  32291  32295  32296  32302  32307  32320  32335
+Number of documents in results : 80
+Number of comparision243
+GetPostings
+функционир
+Postings List: 34315  34674  36635  36636  36773  40146  40240  40249  41630  41697  43109
+GetPostings
+функционирова
+Postings List: 34153  34315  35252  35253  36065  36827  36828  36894  38624  39010  39737  40809  42042  42217  42409  42479  43928
+TaatAnd
+функционир функционирова 
+Results : 34315
+Number of documents in result :1
+Number of comparisions :26
+TaatOr
+функционир функционирова 
+Results: 34153  34315  34674  35252  35253  36065  36635  36636  36773  36827  36828  36894  38624  39010  39737  40146  40240  40249  40809  41630  41697  42042  42217  42409  42479  43109  43928
+Number of documents in result :27
+Number of comparisions :26
+DaatAnd
+функционир функционирова 
+Results: 34315
+Number of documents in results : 1
+Number of comparision: 27
+DaatOr
+функционир функционирова 
+Results: 34153  34315  34674  35252  35253  36065  36635  36636  36773  36827  36828  36894  38624  39010  39737  40146  40240  40249  40809  41630  41697  42042  42217  42409  42479  43109  43928
+Number of documents in results : 27
+Number of comparision81
+GetPostings
+達する
+Postings List: 32497  32556  32578  32772  32777  32893  32973  33082  33107  33119  33208  33222  33252  33275  33292  33376  33442
+GetPostings
+達す
+Postings List: 32472  32487  32530  32545  32573  32654  32718  32808  32834  32899  32910  32943  33035  33094  33179  33190  33200  33204  33212  33246  33354  33393  33404
+GetPostings
+達成
+Postings List: 32579  32691  32718  32757  32803  32924  32938  32980  32991  32996  32997  33021  33067  33137  33175  33181  33192  33193  33210  33229  33349  33364  33414
+TaatAnd
+達する 達す 達成 
+Results : 
+Number of documents in result :0
+Number of comparisions :39
+TaatOr
+達する 達す 達成 
+Results: 32472  32487  32497  32530  32545  32556  32573  32578  32579  32654  32691  32718  32757  32772  32777  32803  32808  32834  32893  32899  32910  32924  32938  32943  32973  32980  32991  32996  32997  33021  33035  33067  33082  33094  33107  33119  33137  33175  33179  33181  33190  33192  33193  33200  33204  33208  33210  33212  33222  33229  33246  33252  33275  33292  33349  33354  33364  33376  33393  33404  33414  33442
+Number of documents in result :62
+Number of comparisions :100
+DaatAnd
+達する 達す 達成 
+Results: 
+Number of documents in results : 0
+Number of comparision: 61
+DaatOr
+達する 達す 達成 
+Results: 32472  32487  32497  32530  32545  32556  32573  32578  32579  32654  32691  32718  32757  32772  32777  32803  32808  32834  32893  32899  32910  32924  32938  32943  32973  32980  32991  32996  32997  33021  33035  33067  33082  33094  33107  33119  33137  33175  33179  33181  33190  33192  33193  33200  33204  33208  33210  33212  33222  33229  33246  33252  33275  33292  33349  33354  33364  33376  33393  33404  33414  33442
+Number of documents in results : 62
+Number of comparision246
+GetPostings
+överskot
+Postings List: 45276  45278  45279  45284  45311
+GetPostings
+överskottet
+Postings List: 45279
+TaatAnd
+överskot överskottet 
+Results : 45279
+Number of documents in result :1
+Number of comparisions :3
+TaatOr
+överskot överskottet 
+Results: 45276  45278  45279  45284  45311
+Number of documents in result :5
+Number of comparisions :3
+DaatAnd
+överskot överskottet 
+Results: 45279
+Number of documents in results : 1
+Number of comparision: 4
+DaatOr
+överskot överskottet 
+Results: 45276  45278  45279  45284  45311
+Number of documents in results : 5
+Number of comparision14
+GetPostings
+ökat
+Postings List: 45276  45293  45295
+GetPostings
+ökning
+Postings List: 45293  45295
+GetPostings
+ägand
+Postings List: 45293
+GetPostings
+äger
+Postings List: 45293
+GetPostings
+äga
+Postings List: 45293
+TaatAnd
+ökat ökning ägand äger äga 
+Results : 45293
+Number of documents in result :1
+Number of comparisions :6
+TaatOr
+ökat ökning ägand äger äga 
+Results: 45276  45293  45295
+Number of documents in result :3
+Number of comparisions :9
+DaatAnd
+ökat ökning ägand äger äga 
+Results: 45293
+Number of documents in results : 1
+Number of comparision: 6
+DaatOr
+ökat ökning ägand äger äga 
+Results: 45276  45293  45295
+Number of documents in results : 3
+Number of comparision20
